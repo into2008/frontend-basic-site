@@ -65,6 +65,9 @@
   background-image: url(./img/hero.png);
   background-size: cover;
   background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 94px 40px;
   position: relative;
   margin-top: 80px ;
