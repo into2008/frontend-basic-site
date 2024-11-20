@@ -64,12 +64,10 @@
 .hero{
   background-image: url(./img/hero.png);
   background-size: cover;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  background-position: center;
   padding: 94px 40px;
   position: relative;
-  margin-top:80px ;
+  margin-top: 80px ;
 }
 .hero::after {
   content: "";
